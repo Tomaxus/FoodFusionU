@@ -1,7 +1,7 @@
 package co.edu.upb.foodfusionu;
 
 import java.util.Scanner;
-
+//Tomas estuvo aqui
 public class Offers {
 
     static Scanner scanner = new Scanner(System.in);
